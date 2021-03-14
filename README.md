@@ -1,6 +1,8 @@
 # Angular Maps
 
 > Google Maps JavaScript API in Angular 2+.
+![Screenshot (511)](https://user-images.githubusercontent.com/40579537/111053037-2e690880-8469-11eb-893b-7bfe47113eed.png)
+
 
 ## Sample app
 
